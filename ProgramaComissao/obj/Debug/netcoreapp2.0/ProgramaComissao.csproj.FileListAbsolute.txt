@@ -1,0 +1,10 @@
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.deps.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.runtimeconfig.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.runtimeconfig.dev.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.dll
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\bin\Debug\netcoreapp2.0\ProgramaComissao.pdb
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.csproj.CoreCompileInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.AssemblyInfoInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.AssemblyInfo.cs
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.dll
+C:\Users\Landim\logica\Desenvolvimento\ProgramaComissao\obj\Debug\netcoreapp2.0\ProgramaComissao.pdb

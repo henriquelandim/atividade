@@ -9,7 +9,7 @@ namespace AnoBissexto
         static void Main(string[] args)
         {   Console.Clear();
             
-            int resultado=0;/*Essa variavel nos dara o resultado, ou seja o termo de quantos anos bissexto houve
+            int resultado=0;/*Essa variavel nos dara o resultado, ou seja o numero de quantos anos bissexto houve
             de 1910 a 2018, ela tem que ser mantida em 0 p funcionar como uma variavel de registro */
             for(int i=1910; i <=2018; i++){/*nessa linha é estabelecido o periodo que a variavel atuara, ou seja
             de 1910 a 2018*/

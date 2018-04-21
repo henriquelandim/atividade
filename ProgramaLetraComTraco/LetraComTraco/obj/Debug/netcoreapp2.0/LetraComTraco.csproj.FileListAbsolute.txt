@@ -1,0 +1,10 @@
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\bin\Debug\netcoreapp2.0\LetraComTraco.deps.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\bin\Debug\netcoreapp2.0\LetraComTraco.runtimeconfig.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\bin\Debug\netcoreapp2.0\LetraComTraco.runtimeconfig.dev.json
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\bin\Debug\netcoreapp2.0\LetraComTraco.dll
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\bin\Debug\netcoreapp2.0\LetraComTraco.pdb
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\obj\Debug\netcoreapp2.0\LetraComTraco.csproj.CoreCompileInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\obj\Debug\netcoreapp2.0\LetraComTraco.AssemblyInfoInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\obj\Debug\netcoreapp2.0\LetraComTraco.AssemblyInfo.cs
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\obj\Debug\netcoreapp2.0\LetraComTraco.dll
+C:\Users\Landim\logica\Desenvolvimento\ProgramaLetraComTraco\LetraComTraco\obj\Debug\netcoreapp2.0\LetraComTraco.pdb

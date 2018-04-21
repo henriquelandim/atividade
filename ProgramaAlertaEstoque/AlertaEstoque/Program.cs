@@ -5,8 +5,11 @@ namespace AlertaEstoque
     {
         static void Main(string[] args)
         {
-            double QtdMaxima,QtdAtual,resultado;
-            string NomeProduto;
+            double QtdMaxima,QtdAtual,resultado;    /*variáveis; 
+            QtdMaxima: Variavel especificada pelo usuario para definir parametro de capacidade maxima
+            QtdAtual: variavel especificada pelo usuario para definir parametro de estado atual
+            resultado: variavel que definira o resultado dos parametros, ou seja o "x"*/
+            string NomeProduto; //variável especificada pelo usuario, p definir o nome do produto
 
             Console.Clear();
             Console.WriteLine("Especifique o nome do produto");

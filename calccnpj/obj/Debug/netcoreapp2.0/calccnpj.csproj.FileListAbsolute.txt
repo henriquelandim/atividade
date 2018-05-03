@@ -1,0 +1,10 @@
+/home/landim/c-sharp/calccnpj/bin/Debug/netcoreapp2.0/calccnpj.deps.json
+/home/landim/c-sharp/calccnpj/bin/Debug/netcoreapp2.0/calccnpj.runtimeconfig.json
+/home/landim/c-sharp/calccnpj/bin/Debug/netcoreapp2.0/calccnpj.runtimeconfig.dev.json
+/home/landim/c-sharp/calccnpj/bin/Debug/netcoreapp2.0/calccnpj.dll
+/home/landim/c-sharp/calccnpj/bin/Debug/netcoreapp2.0/calccnpj.pdb
+/home/landim/c-sharp/calccnpj/obj/Debug/netcoreapp2.0/calccnpj.csproj.CoreCompileInputs.cache
+/home/landim/c-sharp/calccnpj/obj/Debug/netcoreapp2.0/calccnpj.AssemblyInfoInputs.cache
+/home/landim/c-sharp/calccnpj/obj/Debug/netcoreapp2.0/calccnpj.AssemblyInfo.cs
+/home/landim/c-sharp/calccnpj/obj/Debug/netcoreapp2.0/calccnpj.dll
+/home/landim/c-sharp/calccnpj/obj/Debug/netcoreapp2.0/calccnpj.pdb

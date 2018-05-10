@@ -1,0 +1,10 @@
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\Logica.deps.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\Logica.runtimeconfig.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\Logica.runtimeconfig.dev.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\Logica.dll
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\Logica.pdb
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\Logica.AssemblyInfo.cs
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\Logica.dll
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\Logica.pdb

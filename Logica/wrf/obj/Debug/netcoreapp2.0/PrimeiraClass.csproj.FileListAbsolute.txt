@@ -1,0 +1,10 @@
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\PrimeiraClass.deps.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\PrimeiraClass.runtimeconfig.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\PrimeiraClass.runtimeconfig.dev.json
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\PrimeiraClass.dll
+C:\Users\danilo.pmenezes\Downloads\Logica\bin\Debug\netcoreapp2.0\PrimeiraClass.pdb
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\PrimeiraClass.csproj.CoreCompileInputs.cache
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\PrimeiraClass.AssemblyInfoInputs.cache
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\PrimeiraClass.AssemblyInfo.cs
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\PrimeiraClass.dll
+C:\Users\danilo.pmenezes\Downloads\Logica\obj\Debug\netcoreapp2.0\PrimeiraClass.pdb
